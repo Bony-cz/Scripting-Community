@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "id": "lesson-1",
+      "type": "lesson",
+      "title": "Reverse a String in Python",
+      "description": "Write the result of reversing the word 'python'. Enter the reversed string exactly.",
+      "language": "Python",
+      "answer": "nohtyp",
+      "likes": 12,
+      "createdAt": "2026-05-22T12:00:00Z"
+    },
+    {
+      "id": "test-1",
+      "type": "test",
+      "title": "C++ Basic Quiz",
+      "description": "Select the correct answer for each question.",
+      "language": "C++",
+      "questions": [
+        {
+          "question": "Which keyword defines a constant?",
+          "options": ["const", "let", "static", "final"],
+          "correctIndex": 0
+        },
+        {
+          "question": "What header is needed for std::cout?",
+          "options": ["<iostream>", "<vector>", "<string>", "<map>"],
+          "correctIndex": 0
+        }
+      ],
+      "likes": 8,
+      "createdAt": "2026-05-22T12:20:00Z"
+    }
+  ]
+}
